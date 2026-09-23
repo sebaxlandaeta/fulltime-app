@@ -6,7 +6,7 @@ Una aplicación web práctica y adaptable a pantallas móviles para consultar la
 
 ## 🌐 Demostración
 
-👉 **[Haz clic aquí para probar la Live Demo](https://sebaxlandaeta.github.io/Fulltime-app/)**
+👉 **[Haz clic aquí para probar la Live Demo](https://sebaxlandaeta.github.io/fulltime-app/)**
 
 ---
 
